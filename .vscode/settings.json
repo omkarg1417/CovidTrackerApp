@@ -1,0 +1,4 @@
+{
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "editor.mouseWheelZoom": true
+}
